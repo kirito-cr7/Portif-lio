@@ -151,4 +151,18 @@ p {
 
 .projetos {
     margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+footer {
+    border-top: 1px solid  #087cff;
+    background-color: #131212;
+    padding: 10px;
+}
+
+.mae {
+    color: #087cff;
+    font-style: ;
+    font-size: 20px;
+
 }
